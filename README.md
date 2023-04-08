@@ -1,5 +1,9 @@
 # st - simple terminal
 
+## 主题
+
+https://github.com/catppuccin/st
+
 ## 安装
 
 sudo make clean install
